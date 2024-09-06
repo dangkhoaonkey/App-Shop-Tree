@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Spider Plant",
+        "price": "250.000",
+        "thumbnail": "https://36vine.com/wp-content/uploads/2023/12/Reverse-Spider-Plant.webp",
+        "image": [
+            "https://36vine.com/wp-content/uploads/2023/12/Reverse-Spider-Plant.webp",
+            "https://36vine.com/wp-content/uploads/2023/12/Reverse-Spider-Plant.webp",
+            "https://36vine.com/wp-content/uploads/2023/12/Reverse-Spider-Plant.webp"
+        ],
+        "productType": "Cây trồng",
+        "type": "Ưa bóng",
+        "size": "Nhỏ",
+        "origin": "Châu Phi",
+        "status": "Còn 156 sp"
+    },
+    {
+        "id": 2,
+        "name": "Spider Plant",
+        "price": "250.000",
+        "thumbnail": "https://36vine.com/wp-content/uploads/2023/12/Reverse-Spider-Plant.webp",
+        "image": [
+            "https://36vine.com/wp-content/uploads/2023/12/Reverse-Spider-Plant.webp",
+            "https://36vine.com/wp-content/uploads/2023/12/Reverse-Spider-Plant.webp",
+            "https://36vine.com/wp-content/uploads/2023/12/Reverse-Spider-Plant.webp"
+        ],
+        "productType": "Cây trồng",
+        "type": "Ưa bóng",
+        "size": "Nhỏ",
+        "origin": "Châu Phi",
+        "status": "Còn 156 sp"
+    },
+    {
+        "id": 3,
+        "name": "Spider Plant",
+        "price": "250.000",
+        "thumbnail": "https://36vine.com/wp-content/uploads/2023/12/Reverse-Spider-Plant.webp",
+        "image": [
+            "https://36vine.com/wp-content/uploads/2023/12/Reverse-Spider-Plant.webp",
+            "https://36vine.com/wp-content/uploads/2023/12/Reverse-Spider-Plant.webp",
+            "https://36vine.com/wp-content/uploads/2023/12/Reverse-Spider-Plant.webp"
+        ],
+        "productType": "Cây trồng",
+        "type": "Ưa bóng",
+        "size": "Nhỏ",
+        "origin": "Châu Phi",
+        "status": "Còn 156 sp"
+    }
+]
